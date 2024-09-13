@@ -1,4 +1,3 @@
-Aaron Chauhan (akc200003) 
 Instructions:
 Type 'make' to run the file.
 Type 'make clean' to clean up the file
